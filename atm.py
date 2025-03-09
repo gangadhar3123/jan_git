@@ -1,5 +1,6 @@
 #simple atm progrm
 #atm programme using conditional statements
+#feb batch
 a='''
 1 deposit
 2 withdraw
