@@ -1,1 +1,1 @@
-# jan_git
+edi git and github installation
