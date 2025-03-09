@@ -1,4 +1,5 @@
 #simple atm progrm
+#atm programme using conditional statements
 a='''
 1 deposit
 2 withdraw
